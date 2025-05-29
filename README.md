@@ -79,3 +79,8 @@ class SegmentNode:
 class PathInfo:
     attributes: cost, parent
 ~~~
+## 时空复杂度
+Q = len(query)
+R = len(reference)
+时间复杂度：O(R × Q)
+空间复杂度：O(R × Q)
