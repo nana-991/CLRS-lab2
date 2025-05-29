@@ -80,7 +80,7 @@ class PathInfo:
     attributes: cost, parent
 ~~~
 ## 时空复杂度
-Q = len(query)
-R = len(reference)
-时间复杂度：O(R × Q)
-空间复杂度：O(R × Q)
+Q = len(query) <br>
+R = len(reference) <br>
+时间复杂度：O(R × Q) <br>
+空间复杂度：O(R × Q) <br>
